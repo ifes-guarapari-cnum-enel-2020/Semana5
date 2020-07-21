@@ -8,7 +8,7 @@ O método da bisseção explora o fato de que uma função contínua deverá ter
 
 https://www.ufrgs.br/reamat/CalculoNumerico/livro-py/sdeduv.html
 
-Nesse exercício, o objetivo é identificar os zeros da função de terceiro grau ![formula](https://render.githubusercontent.com/render/math?math=f(x)=x^3-9x+3), sabendo que eles estão entre os intervalos vistos graficamente e com um erro aproximado na terceira casa.
+Nesse exercício, o objetivo é identificar os zeros da função de terceiro grau ![formula](https://render.githubusercontent.com/render/math?math=f(x)=x^3-9*x+3), sabendo que eles estão entre os intervalos vistos graficamente e com um erro aproximado na terceira casa.
 ```julia
 f(x) = x^3 - 9*x + 3
 
