@@ -1,4 +1,6 @@
 # Semana5
+![](https://github.com/ifes-guarapari-cnum-enel-2020/Semana5/workflows/Julia%20CI/badge.svg)
+
 Atividades Pedagógicas Não Presenciais
 
 ## Método da bisseção
